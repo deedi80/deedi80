@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋
+I'm a seasoned professional with a passion for building robust and secure digital foundations. My expertise lies at the intersection of Cloud Infrastructure, Cybersecurity, and Networking, where I design, implement, and maintain the systems that power modern applications.
 
-<!--
-**deedi80/deedi80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cloud Infrastructure
+I specialize in architecting scalable and resilient solutions on leading cloud platforms. My experience includes:
 
-Here are some ideas to get you started:
+Cloud Platforms: AWS, Google Cloud Platform (GCP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Containerization: Docker, Kubernetes
+
+Infrastructure as Code (IaC): Terraform, CloudFormation
+
+CI/CD: Jenkins, GitHub Actions
+
+🛡️ Cybersecurity
+My focus is on proactive defense and threat mitigation. I'm skilled in securing systems and data, ensuring compliance, and responding to incidents. My key areas are:
+
+Threat Detection & Prevention: IDS/IPS, WAF, SIEM
+
+Identity & Access Management: IAM, SSO
+
+Vulnerability Management: Penetration testing, security audits
+
+Compliance: GDPR, SOC 2
+
+🌐 Networking
+I have a deep understanding of network architecture and security. I am proficient in:
+
+Network Configuration: VLANs, Subnetting, Routing
+
+Network Security: Firewalls, VPNs, DDoS protection
+
+Protocol Analysis: TCP/IP, DNS, HTTP/S
